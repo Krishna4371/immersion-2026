@@ -1,75 +1,422 @@
-### amirkhan1092 ✍(◔◡◔)
+# DSA Immersion 2026
 
-I like to train Machine Learning models for Humans.
+## Industry-Oriented DSA using Java & Pseudo Code Program
+A structured and placement-focused learning program designed to build strong problem-solving, logical thinking, coding interview, and software engineering skills using **Java, Data Structures & Algorithms, and Pseudo Code Analysis**.
+
+---
+
+# Program Overview
+The **DSA Immersion 2026** program is specially designed for students preparing for:
+
+* Logic Building
+* Pseudo Code Understanding
+* Java Fundamentals
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* Company Specific Questions
+* Coding Assessments
+* Interview Readiness
+
+---
+
+# Program Goals
+
+* Build strong problem-solving skills
+* Improve logical thinking ability
+* Understand real coding assessment patterns
+* Learn DSA using Java
+* Master code execution & dry run techniques
+* Improve debugging skills
+* Prepare students for placement interviews
+
+---
+
+# Learning Approach
+
+This repository follows an industry-oriented learning methodology:
+
+```text
+Problem Understanding
+        ↓
+Logic Building
+        ↓
+Pseudo Code
+        ↓
+Dry Run & Execution
+        ↓
+Java Implementation
+        ↓
+Optimization
+        ↓
+Interview Preparation
+```
 
 
-<!--
-**amirkhan1092/amirkhan1092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Curriculum Structure
+| Module                   | Duration       |
+| ------------------------ | -------------- |
+| Java + OOP               | 3 Weeks        |
+| Core DSA                 | 3 Weeks        |
+| Advanced Problem Solving | 1 Week         |
+| Pseudo Code Sessions     | Entire Program |
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-  <a href="https://www.gla.ac.in/academics/faculty-detail/618/mr-mohd-amir-khan" target="_blank"><img src="res/atlas.gif" width=854 height=300></a>
-</p>
+# Program Structure / Week
 
-<p>
-  <h1 align="center"><b>Hi there, I'm Mohd Amir Khan! 👋</b></h1>
-</p>
+| Module               | Hours / Week |
+| -------------------- | ------------ |
+| DSA using Java       | 6 Hours      |
+| Pseudo Code Sessions | 2 Hours      |
+| Total Learning       | 8 Hours      |
 
-<p>
-  <h4 align="center"><b>"Your life is ruled by Recursion. The only difference is you can't backtrack."</b></h4>
-</p>
+---
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://user-images.githubusercontent.com/15958589/204095096-8d547736-5427-4c29-878d-fe0e3d9461db.png" />
-</p>
+# DSA Using Java Syllabus
 
-<p align="center">
-<br>
-<a href="https://www.facebook.com/amirkhan1092" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://instagram.com/amirkhan101292" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/amirkhan1092/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-</p>
+## Week 1 — Java Fundamentals & OOP
 
-<br>
+* Java Execution Flow
+* JDK, JRE, JVM
+* Variables & Data Types
+* Operators & Conditional Statements
+* Class & Object
+* Constructors
+* Encapsulation
 
-<img align="right" height="280px" alt="GIF" src="https://media1.giphy.com/media/bAplZhiLAsNnG/giphy.gif?cid=790b7611a2f55660a74ef691e9079a0360cc33d6a4a5b6d3&rid=giphy.gif&ct=g" />
+### Deliverables
 
-### I'm a Technical Trainer at [GLA University](https://www.gla.ac.in/)
+✅ OOP Mini Project
+✅ Java Fundamentals Assessment
 
-- 🔭 I’m currently working on my problem solving skills.
-- 🌱 I’m currently learning Computer Vision.
-- 👯 I’m looking to collaborate with other Developers. :raised_hands:
-- 💬 Ask me about anything, I'm happy to help! :smile:
-- 📬 How to reach me: [Drop me a text!](https://www.linkedin.com/in/amirkhan1092/)
-- ⚡ One fact about me: I love [Python.](https://www.python.org/)❤️
-- ⚡Another fact about me: I'm crazy about Post Rock Instrumentals. Check out [this playlist on spotify.](https://open.spotify.com/playlist/2cmd5Q6nCwHjnJ0X7ipyeL?si=TV6jtYowSj-qdnsjuZYVXw) :grin:
-- 🎵 Let's connect! I'd love to know the kind of music you listen to.
+---
 
-<br>
+## Week 2 — Advanced OOP
 
-### :zap: Github Stats
+* Inheritance
+* Method Overloading
+* Method Overriding
+* Polymorphism
+* Abstraction
+* Interfaces
+* Static & Final
+* SOLID Principles
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=amirkhan1092&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&cache_seconds=1800" alt="amirkhan1092's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirkhan1092&show_icons=true&hide_border=true&theme=radical" width="37%" alt="amirkhan1092's Top Languages">
+### Deliverables
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirkhan1092&theme=dark" alt="amirkhan1092's Github Streaks" width="70%">
-</div>
+✅ OOP Coding Assignment
+✅ Technical Viva
 
-<br>
+---
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+## Week 3 — Arrays & Strings
 
-[instagram]: https://instagram.com/amirkhan1092
-[linkedin]: https://www.linkedin.com/in/amirkhan101292/# immersion-2026
+* Arrays
+* ArrayList
+* String Manipulation
+* StringBuilder
+* Frequency Count
+* Palindrome Problems
+* Anagram Problems
+
+### Deliverables
+
+✅ Array & String Coding Sheet
+✅ Mock Assessment
+
+---
+
+## Week 4 — Searching & Sorting
+
+* Linear Search
+* Binary Search
+* Bubble Sort
+* Selection Sort
+* Insertion Sort
+* Merge Sort Introduction
+* Time & Space Complexity
+
+### Deliverables
+
+✅ Sorting Contest
+✅ Complexity Assignment
+
+---
+
+## Week 5 — Linked List, Stack & Queue
+
+* Singly Linked List
+* Doubly Linked List
+* Circular Linked List
+* Reverse Linked List
+* Stack Operations
+* Queue Operations
+* Standard Interview Problems
+
+### Deliverables
+
+✅ Linked List Lab
+✅ Stack & Queue Problem Set
+
+---
+
+## Week 6 — Recursion, Hashing & Trees
+
+* Recursion
+* Backtracking Basics
+* HashMap
+* HashSet
+* Binary Trees
+* Tree Traversals
+* Binary Search Tree
+
+### Deliverables
+
+✅ Tree Traversal Assignment
+✅ Hashing Practice Sheet
+
+---
+
+## Week 7 — Advanced DSA & Placement
+
+* Greedy Algorithms
+* Dynamic Programming
+* Sliding Window
+* Two Pointer Technique
+* Elite 25 Coding Questions
+* Company-Specific Problems
+* Mock Coding Round
+
+### Deliverables
+
+✅ Grand Mock Test
+✅ Mock Technical Interview
+
+---
+
+# 🧩 Pseudo Code Syllabus
+
+## Week 1
+
+* Introduction to Pseudo Code
+* Operators
+* Conditional Statements
+* Execution Flow Basics
+
+## Week 2
+
+* Loops
+* Nested Loops
+* Dry Run Practice
+
+## Week 3
+
+* Arrays & String Basics
+* Functions
+* Recursion Logic
+
+## Week 4
+
+* Stack & Queue Logic
+* Prefix/Postfix
+* Tree Traversals
+* Searching & Sorting Logic
+
+## Week 5
+
+* Accenture Specific Questions
+* Company Coding Patterns
+
+## Week 6
+
+* Cognizant & Capgemini Questions
+* Mixed Company PYQs
+
+## Week 7
+
+* Grand Mock Test
+* Final Revision
+* Placement Assessment Simulation
+
+---
+
+# Industry-Oriented Features
+
+This repository includes:
+
+✅ Placement-Oriented Curriculum
+✅ Company Specific Questions
+✅ Dry Run Exercises
+✅ Logic Building Sessions
+✅ Code Snippet Analysis
+✅ Mock Coding Rounds
+✅ Interview Questions
+✅ MCQ Assessments
+✅ Cheatsheets & Notes
+✅ Debugging Sessions
+✅ Optimized Solutions
+
+---
+
+# Targeted Companies
+
+* Accenture
+* TCS
+* Infosys
+* Cognizant
+* Capgemini
+* IBM
+* Wipro
+* HCL
+* Product-Based Companies
+
+---
+
+# Repository Structure
+
+```text id="hn26j2"
+DSA-Immersion-2026/
+│
+├── 01-PseudoCode/
+├── 02-Java-Core-OOP/
+├── 03-DSA-Java/
+├── 04-Assessments/
+├── 05-Resources/
+├── 06-Placement-Preparation/
+└── README.md
+```
+
+---
+
+# Repository Contents
+
+## 01-PseudoCode
+
+* Logic Building
+* Dry Run Problems
+* Code Snippets
+* Execution Flow
+* Company Patterns
+
+## 02-Java-Core-OOP
+
+* Java Fundamentals
+* OOP Concepts
+* SOLID Principles
+* Practice Programs
+
+## 03-DSA-Java
+
+* Topic-wise DSA
+* Java Implementations
+* Interview Questions
+* Optimized Solutions
+
+## 04-Assessments
+
+* MCQs
+* Coding Assignments
+* Mock Tests
+* Weekly Evaluations
+
+## 05-Resources
+
+* PPTs
+* Cheatsheets
+* Notes
+* Practice Sheets
+
+## 06-Placement-Preparation
+
+* Coding Patterns
+* OA Preparation
+* HR Questions
+* Mock Interviews
+
+---
+
+# Weekly Deliverables
+
+| Week   | Deliverables                   |
+| ------ | ------------------------------ |
+| Week 1 | OOP Mini Project               |
+| Week 2 | OOP Coding Assignment          |
+| Week 3 | Array & String Contest         |
+| Week 4 | Searching & Sorting Assessment |
+| Week 5 | Linked List Lab                |
+| Week 6 | Tree Traversal Coding          |
+| Week 7 | Elite 25 + Mock Interview      |
+
+---
+
+# Skills Students Will Develop
+
+Students completing this immersion program will be able to:
+
+✅ Build logic independently
+✅ Perform dry runs confidently
+✅ Understand execution flow
+✅ Solve DSA problems effectively
+✅ Write optimized Java programs
+✅ Analyze code snippets
+✅ Improve debugging capability
+✅ Crack coding assessments
+✅ Perform in technical interviews
+
+---
+
+# Recommended Coding Platforms
+
+Students are encouraged to practice on:
+
+* LeetCode
+* HackerRank
+* GeeksforGeeks
+* CodeStudio
+* Coding Ninjas
+
+---
+
+# Future Enhancements
+
+Upcoming additions:
+
+* Graph Algorithms
+* Heap & Priority Queue
+* Advanced Dynamic Programming
+* Competitive Programming
+* Low-Level Design
+* System Design Basics
+
+---
+
+# Important Note
+
+This repository is designed for:
+
+* Placement Preparation
+* Logic Building
+* Coding Assessments
+* Technical Interview Readiness
+* Industry-Oriented Problem Solving
+
+Students are strongly encouraged to:
+
+* Practice consistently
+* Focus on understanding concepts
+* Perform manual dry runs
+* Think before coding
+* Build solutions independently
+
+---
+
+# Final Message
+
+> “Coding is not memorizing syntax.”
+
+> “Coding is the ability to think logically, analyze problems, and build efficient solutions.”
+
+---
+
+# Maintained By
+
+DSA Immersion 2026 - SME
